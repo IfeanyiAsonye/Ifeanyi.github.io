@@ -9,7 +9,7 @@ but here's where am i going with this, i am trying to say is that, for all devic
 what is called IP address. That's the only way you can use, share and recieve anything over that network.
 types of IP addresses are IPV4 (what you'll mostly work with) and IPV6(this one is massively large, don't borther too much about it, you might never have to use 'em) 
 
-SUBNET
+*SUBNET*
 Full menaning "subnetwor". This is one step down the ip address. it simply means a logical subdivision of the 
 larger IP network. I kinda feel like sometimes, this is influence by structure - it may be physical or organisational but 
 these are my opinion. Although some other things go on under ther hood but i'll only write on the important one - CIDR 
@@ -17,13 +17,13 @@ CIDR - Means classeless interdomain routing i guess but here what you need to kn
 if you have experince working on-prem infra you might have heard of DHCP. Yeah, this is somehow linked to that but i wont be 
 writing about that, just know that it is a way to know how many IP addresses can be assigned in a subnet. 
 
-PORTS
+*PORTS*
 I understand ports to be virtual point where entry and exit to only a particular service can happen. 
 kinda like the door or window to a particular room in a house where you don't actually enter the house.
 There are many out there you don't need to learn them all, just know a couple like the ssh, FTP, TCP, HTTP. 
 
 
-OSI MODEL
+*OSI MODEL*
 This is an important concept, you cannot skip it, if not you'll keep coming back to it so know it and have peace. 
 There are 7 layers sometimes read as 7-1 or 1-7, it doesn't matter. 
 Although in the youtube video refrence, he touched on DNS resolution, TCP handshake and the data movement lifecycle i.e sending and recieving
@@ -37,7 +37,7 @@ Here is a summary
 - Physical Layer - Cables and all
 
 
-VPC OVERVIEW IN AWS CONSOLE
+*VPC OVERVIEW IN AWS CONSOLE*
 - How networking is done in the cloud, security measures like security groups, NACL (Network access control list), NAT gatways, route tables and load balancers. 
 
 I got to experiment using the AWS Educate Networking Lab Simulation fr try outs. 
