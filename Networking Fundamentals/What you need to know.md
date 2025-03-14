@@ -1,7 +1,7 @@
 Resource Used - https://www.youtube.com/watch?v=iSOfkw_YyOU&t=9020s - By Abhishek veeramalla
 
 *Concepts*
-IP Address
+*IP Address*
 I now understand ip addresses to mean some sort of identifier ID for devices connected in a 
 network. You know how you have particular arears in superstore labelled, eg Cosmetics, Groceries etc.
 so see those areas as devices interconnected in the entire building. This might be a very port analogy 
