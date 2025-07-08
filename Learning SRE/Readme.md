@@ -1,4 +1,4 @@
-# Learning DevOps for SRE Roles
+# Learning SRE 
 
 Welcome to my journey of becoming a Site Reliability Engineer (SRE). I am passionate about site reliability and aspire to become an SRE in the near future. This repository is created to track my progress and share my learning experiences.
 

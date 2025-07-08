@@ -10,9 +10,9 @@ what is called IP address. That's the only way you can use, share and recieve an
 types of IP addresses are IPV4 (what you'll mostly work with) and IPV6(this one is massively large, don't borther too much about it, you might never have to use 'em) 
 
 *SUBNET*
-Full menaning "subnetwor". This is one step down the ip address. it simply means a logical subdivision of the 
+Full menaning "subnetwork". This is one step down the ip address. it simply means a logical subdivision of the 
 larger IP network. I kinda feel like sometimes, this is influence by structure - it may be physical or organisational but 
-these are my opinion. Although some other things go on under ther hood but i'll only write on the important one - CIDR 
+these are my opinion. Although some other things go on under the hood but i'll only write on the important one - CIDR 
 CIDR - Means classeless interdomain routing i guess but here what you need to know about it, its an allocation method. 
 if you have experince working on-prem infra you might have heard of DHCP. Yeah, this is somehow linked to that but i wont be 
 writing about that, just know that it is a way to know how many IP addresses can be assigned in a subnet. 
